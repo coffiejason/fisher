@@ -1,5 +1,5 @@
 
-![Logo](src/assets/tinder.png)
+![Logo](src/assets/color-logo-tinder.png)
 
 
 # Tinder Clone
