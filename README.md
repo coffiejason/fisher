@@ -1,5 +1,5 @@
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](src/assets/tinder.png)
 
 
 # Tinder Clone
@@ -9,7 +9,7 @@ A dating app based on Tinder's app design
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](src/assets/screenshot.png)
 
 
 ## Demo
